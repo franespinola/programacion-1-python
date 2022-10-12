@@ -1,0 +1,21 @@
+body{
+    height: 1000px;
+    background-image:none;
+    background-color: white
+}
+.tabla-admin{
+    margin-top: 5%;
+   
+}
+.tabla-admin-align{
+    text-align: center;
+}
+.col-color{
+    background: #4f48af;
+    color: white;
+}
+.page-color{
+    background: #4f48af;
+}
+
+
